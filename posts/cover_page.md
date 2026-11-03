@@ -3,8 +3,18 @@ title: "The Flame, the Sunlight, and the Storm"
 date: 2026-11-03
 description: "AO3 is down, long live AO3."
 warnings: No Archive Warnings Apply
-tags: "Fanservice, F/M, M/M, Multi, I am aware that I am a walking cliche, Original Male Character/G'raha Tia/Original Female Character, G'raha Tia/Original Female Character, Original Male Character/G'raha Tia, Original Male Character/Original Female Character(s), G'raha Tia/Warrior of Light, Feo Ul (Final Fantasy XIV), Ardbert (Final Fantasy XIV), Seto (Final Fantasy XIV), Alisaie is a menace, Final Fantasy XIV: Shadowbringers, Final Fantasy XIV: Endwalker, The First (Final Fantasy XIV), Norvrandt (Final Fantasy XIV), Alternate Universe - Canon Divergence, Polyamory, M/M/F, Triad, Queer Themes, Slow Burn, Mutual Pining, Developing Relationship, Bickering to Lovers, G'raha Tia Has a Martyr Complex, Emotional Hurt/Comfort, Trauma Recovery, Attachment Styles What?, CW: Descriptions/discussion of mental health issues, CW: Major Character Injury/Illness, Psychological Trauma / PTSD, Feo Ul features heavily, I think that's enough tags"
+tags: "Alternate Universe - Canon, Fanservice, F/M, M/M, Multi, Queer Themes, I am aware that I am a walking cliche, Polyamory, Original Male Character/G'raha Tia/Original Female Character, Feo Ul (Final Fantasy XIV), Ardbert, Seto, Alisaie is a menace, Slow Burn, Mutual Pining, Bickering to Lovers, G'raha Tia Has a Martyr Complex, Emotional Hurt/Comfort, Trauma Recovery, Attachment Styles What?, CW: Descriptions/discussion of mental health issues, CW: , Feo Ul features heavily, I think that's enough tags"
 ---
+
+# The Flame, the Sunlight, and the Storm
+
+*No Archive Warnings Apply*
+
+*Tags: Too Many*
+Alternate Universe - Canon, Fanservice, F/M, M/M, Multi, Queer Themes, I am aware that I am a walking cliche, Polyamory, Original Male Character/G'raha Tia/Original Female Character, Feo Ul (Final Fantasy XIV), Ardbert, Seto, Alisaie is a menace, Slow Burn, Mutual Pining, Bickering to Lovers, G'raha Tia Has a Martyr Complex, Emotional Hurt/Comfort, Trauma Recovery, Feo Ul features heavily, I think that's enough tags
+
+*Content Warnings: Major Character Injury/Illness, Psychological Trauma / PTSD*
+
 
 *"Shut up," she said, her rough Ala Mhigan contralto cutting right through his grand address. "I know it's you under that stupid hood, G'raha Tia."*
 
