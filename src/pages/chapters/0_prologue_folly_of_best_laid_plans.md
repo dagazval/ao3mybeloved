@@ -1,6 +1,8 @@
 ---
+layout: ../../layouts/Layout.astro
 title: "Prologue: The Folly of Best Laid Plans"
 date: 2026-11-03
+chapterNumber: 0
 description: "Let the ShB AU begin"
 ---
 
@@ -59,3 +61,4 @@ She stood up from her crouch, let her hands drop into her deep vest pockets, and
 "Shut up," she said, her rough Ala Mhigan contralto cutting right through his grand address. "I know it's you under that stupid hood, G'raha Tia."
 
 The silence that followed was absolute.  And as thick as a thousand year old tree.
+
