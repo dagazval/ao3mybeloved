@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+{{ with resources.Get "css/reset.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+
+{{ with resources.Get "css/theme.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+
+{{ with resources.Get "css/small.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" media="(max-width: 400px)">
+{{ end }}
+
+{{ with resources.Get "img/favicon.png" }}
+  <link rel="shortcut icon" href="{{ .RelPermalink }}">
+{{ end }}
+</head>
+
+<body class="default">
+    <div class="main-wrap">
+       <header id="top">
+    <a id="logo" href="https://nomikkh.net">nomikkh.net</a>
+    
+    <div class="site-banner">
+        <a href="/">{{ .Site.Title }}</a>
+    </div>
+
+    <nav id="main" role="navigation">
+        <ul>
+            <li><a href="/chapters/">Chapter List</a></li>
+        </ul>
+    </nav>
+</header>
+
+        <section class="content wrap">
+            {{ block "main" . }}{{ end }}
+        </section>
+
+        <div class="wrap">
+    <footer id="bottom">
+        <small>&copy; {{ now.Format "2006" }} nomikkh.net. All rights reserved.</small>
+        <ul role="navigation">
+            <li><a href="https://nomikkh.net">nomikkh.net</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/chapters/">Chapters</a></li>
+        </ul>
+    </footer>
+</div>
+    </div>
+</body>
+</html>

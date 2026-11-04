@@ -1,0 +1,372 @@
+/**
+ *   Theme CSS (Hugo Port)
+ */
+
+h1 {
+    padding: 80px 0 40px;
+    font-size: 40px;
+    line-height: 48px;
+    color: #3c4238;
+}
+
+.search h1 {
+    padding: 60px 0;
+}
+
+/* ==========================================================================
+   Header & Top Navigation
+   ========================================================================== */
+#top {
+    overflow: hidden;
+    padding: 25px 30px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+/* Left Brand Link */
+#top #logo {
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #555f6d !important;
+    white-space: nowrap;
+}
+
+#top #logo:hover {
+    color: #1d1121 !important;
+}
+
+/* Center Site Title */
+#top .site-banner a {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    color: #3c4238 !important;
+    text-align: center;
+}
+
+#top .site-banner a:hover {
+    color: #1d1121 !important;
+}
+
+/* Right Navigation Menu */
+#top nav#main {
+    display: flex;
+    align-items: center;
+}
+
+#top nav#main ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+#top nav#main ul li {
+    padding-left: 20px;
+    margin: 0;
+}
+
+#top nav#main ul li a {
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #555f6d !important;
+    white-space: nowrap;
+}
+
+#top nav#main ul li a:hover {
+    color: #1d1121 !important;
+}
+
+
+/**
+ *   Index page listing, category listing, search page results
+ */
+.items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Tighter vertical spacing between chapters */
+.items > li {
+    padding: 10px 0; /* Reduced from 50px */
+    color: #3c4238;
+    background: transparent;
+}
+
+/* Keep the first entry aligned or slightly padded */
+.posts .items > li:first-child {
+    background: transparent !important;
+    padding: 15px 0 0; /* Reduced from 80px */
+}
+
+.items li h1 a,
+.posts .items > li:first-child h2 a {
+    color: rgb(60, 66, 56);
+}
+
+.items h1 {
+    background: transparent !important;
+    padding: 0 0 8px;
+}
+
+.items h1 a {
+    text-decoration: none;
+}
+
+.items h2 {
+    font-size: 32px;
+    line-height: 41px;
+}
+
+.items h2 a {
+    background: transparent !important;
+    display: block;
+    padding-bottom: 12px;
+    border-top: 2px solid darkslategray;
+    color: rgb(60, 66, 56);
+    text-decoration: none;
+}
+
+.items h2 a:hover {
+    color: #1d1121;
+}
+
+.items .content {
+    padding: 10px 0 0;
+}
+
+.items .content p {
+    padding-bottom: 15px;
+}
+
+/**
+ *   Pagination
+ */
+.pagination {
+    overflow: hidden;
+    padding: 30px 0;
+    margin-bottom: 50px;
+    border-top: 1px solid rgba(22, 36, 54, 0.1);
+    border-bottom: 1px solid rgba(22, 36, 54, 0.1);
+}
+
+.pagination:empty {
+    display: none;
+}
+
+.pagination a {
+    float: left;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #6f7b8b;
+}
+
+.pagination a:hover {
+    color: #dbcce0;
+}
+
+.pagination .next {
+    float: right;
+}
+
+/**
+ *   Content wrappers
+ */
+.content {
+    padding-bottom: 50px;
+}
+
+.content ul,
+.content ol,
+.items li ul {
+    padding: 20px 30px;
+}
+
+.content .items {
+    padding: 0;
+}
+
+.content ul ul,
+.content ol ol,
+.items li ul ul {
+    padding: 0 20px;
+}
+
+.content blockquote {
+    border-left: 3px solid #dbcce0;
+    padding-left: 15px;
+    margin: 15px 0;
+}
+
+/**
+ *   Footnotes and straplines
+ */
+.footnote,
+.commentlist time,
+.items footer {
+    display: block;
+    padding: 5px 0 15px;
+    color: #555f6d;
+    font-size: 14px;
+    font-style: italic;
+    white-space: nowrap;
+}
+
+.footnote {
+    padding: 20px 0 40px;
+}
+
+/**
+ *   Comment list and form
+ */
+ul.commentlist {
+    margin-bottom: 40px;
+    list-style: none;
+    border-top: 1px solid rgb(219, 204, 224);
+    padding: 0;
+}
+
+ul.commentlist .wrap {
+    position: relative;
+}
+
+ul.commentlist li {
+    padding: 40px 0;
+    border-bottom: 1px solid rgb(219, 204, 224);
+}
+
+ul.commentlist time {
+    font-size: 13px;
+}
+
+ul.commentlist h2 {
+    font-size: 25px;
+    line-height: 33px;
+}
+
+ul.commentlist .counter {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 25px;
+    font-weight: 300;
+    color: #dbcce0;
+}
+
+#comment {
+    overflow: hidden;
+}
+
+#comment label[for] {
+    display: none;
+}
+
+#comment p {
+    float: left;
+    width: 48%;
+    margin-right: 4%;
+    margin-bottom: 10px;
+    text-indent: 0;
+}
+
+#comment p + p {
+    margin-right: 0;
+}
+
+#comment p.textarea {
+    float: none;
+    width: 100%;
+}
+
+#comment input,
+#comment textarea {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: normal;
+    border: 1px solid rgba(22, 36, 54, 0.2);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#comment input:focus,
+#comment textarea:focus {
+    outline: none;
+    background: #f7f9fc;
+}
+
+#comment textarea {
+    min-height: 150px;
+    max-height: 800px;
+    resize: vertical;
+}
+
+#comment button {
+    display: inline-block;
+    padding: 9px 18px;
+    background: #3c6eb7;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#comment button:hover {
+    background: #2b528c;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+#bottom {
+    padding: 30px 0 50px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid rgba(22, 36, 54, 0.1);
+    margin-top: 40px;
+}
+
+#bottom small {
+    color: #555f6d;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+#bottom ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#bottom ul li {
+    margin: 0;
+    padding: 0;
+}
+
+#bottom ul li a {
+    font-size: 13px;
+    font-weight: 600;
+    color: #555f6d !important;
+    text-decoration: none;
+}
+
+#bottom ul li a:hover {
+    color: #1d1121 !important;
+    text-decoration: underline;
+}

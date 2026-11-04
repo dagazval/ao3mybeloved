@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article>
+    <h2>{{ .Title }}</h2>
+    {{ with .Params.date }}<span class="footnote">{{ . }}</span>{{ end }}
+    {{ .Content }}
+</article>
+{{ end }}
