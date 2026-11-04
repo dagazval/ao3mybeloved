@@ -16,6 +16,24 @@ h1 {
 	
 
 /* Replace the old #top rules with this flex layout */
+
+/* Left link: nomikkh.net */
+#top #logo {
+	font-size: 18px; /* was 13px */
+	font-weight: 800;
+	text-decoration: none;
+	color: #555f6d;
+	margin-left: 200px; /* Add some spacing between the links */
+}
+
+/* Right navigation link: Chapter List */
+#top nav#main ul a {
+	font-size: 18px; /* was 13px */
+	font-weight: 800;
+	text-decoration: none;
+	color: #555f6d;
+	margin-right: 200px; /* Add some spacing between the links */
+}
 #top {
 	overflow: hidden;
 	padding: 20px 35px;
@@ -24,13 +42,6 @@ h1 {
 	align-items: center;
 	justify-content: space-between;
 	margin-bottom: 40px;
-}
-
-#top #logo {
-	font-size: 13px;
-	font-weight: 500;
-	text-decoration: none;
-	color: #3c4238;
 }
 
 #top .site-banner a {
@@ -52,15 +63,8 @@ h1 {
 	padding-left: 20px;
 }
 
-#top nav#main ul a {
-	font-size: 13px;
-	font-weight: 500;
-	text-decoration: none;
-	color: #555f6d;
-}
-
 #top a:hover {
-	color: #dbcce0;
+	color: #1d1121;
 }
 
 /**

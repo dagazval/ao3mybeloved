@@ -8,6 +8,8 @@ description: "Let the ShB AU begin"
 
 ## Prologue: The Folly of Best Laid Plans
 
+<p>
+
 The mud in the Ghimlyt Dark had the consistency of wet lard and smelled of spent ceruleum.
 
 It was a miserable, indecisive kind of cold—the sort that didn't have the decency to freeze the ground solid, just spit sleet into your collar until your leathers were sodden and your shins ached. Around the revetment, the trench timber shuddered under the rhythmic, concussive hammering of imperial magitek artillery half a malm north.

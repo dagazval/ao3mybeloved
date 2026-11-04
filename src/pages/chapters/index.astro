@@ -26,9 +26,6 @@ const chapters = allChapters.sort((a, b) => {
           {chapter.frontmatter.date && (
             <span class="footnote">{chapter.frontmatter.date}</span>
           )}
-          {chapter.frontmatter.description && (
-            <p>{chapter.frontmatter.description}</p>
-          )}
         </li>
       ))}
     </ul>
