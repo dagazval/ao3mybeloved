@@ -15,99 +15,53 @@ h1 {
 	}
 	
 
-/* The slide-down panel at the very top of the page. Like literally. It's above the page, hidden. */
-.slidey {
-	overflow: hidden;
-	padding: 30px 0;
-
-	background: transparent;
-}
-	.js-enabled .slidey {
-		-webkit-transition: margin-top .2s;
-		-moz-transition: margin-top .2s;
-		transition: margin-top .2s;
-	}
-	.slidey b, .slidey label {
-		display: block;
-		font-weight: 500;
-		padding-bottom: 15px;
-
-		font-size: 15px;
-		font-weight: 500;
-	}
-	.slidey form, .slidey aside {
-		float: left;
-		width: 50%;
-	}
-		.slidey form input {
-			padding: 20px;
-			width: 75%;
-		}
-	.slidey li {
-		list-style: none;
-	}
-		.slidey a {
-			display: block;
-			text-decoration: none;
-
-			color: #717985;
-		}
-			.slidey a:hover {
-				color: #3c4238;
-			}
-		.slidey li span {
-			float: right;
-			opacity: .6;
-		}
-
+/* Replace the old #top rules with this flex layout */
 #top {
 	overflow: hidden;
 	padding: 20px 35px;
-
 	background: transparent;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 40px;
 }
-	#top a {
-		float: left;
 
-		font-size: 13px;
-		font-weight: 500;
-		text-decoration: none;
+#top #logo {
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+	color: #3c4238;
+}
 
-		color: #3c4238;
-	}
-		#top #logo:hover, #top ul a:hover, #top ul .active a, .posts .items li:first-child h2 a:hover, p a:hover {
-			color: #3c4238;
-		}
-	#top ul {
-		list-style: none;
-		float: right;
-	}
-		#top ul li {
-			float: left;
-			padding-left: 40px;
-		}
-		#top ul a {
-			display: inline-block;
-			color: #555f6d;
-		}
-		#top ul img {
-			display: inline-block;
-			vertical-align: middle;
+#top .site-banner a {
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	text-decoration: none;
+	color: #3c4238;
+}
 
-			position: relative;
-			top: -2px;
+#top nav#main ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
 
-			width: 16px;
-			height: 16px;
+#top nav#main ul li {
+	padding-left: 20px;
+}
 
-			opacity: .4;
-		}
-			#top ul a:hover img {
-				opacity: .7;
-			}
-			#top ul a.active img {
-				opacity: 1;
-			}
+#top nav#main ul a {
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+	color: #555f6d;
+}
+
+#top a:hover {
+	color: #dbcce0;
+}
 
 /**
  *   Index page listing, category listing, search page results
