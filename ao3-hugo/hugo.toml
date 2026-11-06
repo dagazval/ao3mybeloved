@@ -1,5 +1,5 @@
 baseURL = 'http://ao3mybeloved.nomikkh.net/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'AO3 My Beloved'
 
 # Keeps URLs cleanly mapped to directories (e.g., /chapters/ gets /chapters/index.html)
@@ -7,3 +7,8 @@ uglyURLs = false
 
 [params]
   description = "AO3 is dead.  Long live AO3."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
