@@ -2,7 +2,7 @@
 title: "Chapter 1: Reversals and Crimes Against Sound"
 date: 2026-11-04T09:00:00-06:00
 draft: false
-weight: 1
+chapterNumber: 1
 description: "Vex's usual tactics backfire spectacularly."
 ---
 

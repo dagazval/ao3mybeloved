@@ -15,16 +15,16 @@
 			<atom:link href="http://localhost:1313/chapters/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Chapter 1: Reversals and Crimes Against Sound</title>
-				<link>http://localhost:1313/chapters/1_reversals_and_crimes/</link>
+				<link>http://localhost:1313/chapters/1-reversals-and-crimes/</link>
 				<pubDate>Wed, 04 Nov 2026 09:00:00 -0600</pubDate>
-				<guid>http://localhost:1313/chapters/1_reversals_and_crimes/</guid>
+				<guid>http://localhost:1313/chapters/1-reversals-and-crimes/</guid>
 				<description>&lt;p&gt;The silence in the Ocular dragged long enough for the hum of the crystal relays to sound deafening.&lt;/p&gt;&#xA;&lt;p&gt;G’raha’s hand remained suspended mid-gesture, his fingers half-curled against the azure air. Beneath the heavy shadow of the cowl, his jaw worked twice, searching in vain for the grand, velvet rhetoric he had spent decades refining.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;You&amp;hellip;&amp;rdquo; His voice cracked, the ancient sovereign evaporating on the syllable before he hastily cleared his throat to force it back down. &amp;ldquo;I&amp;hellip; forgive me. The calculations did not—&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Prologue: The Folly of Best Laid Plans</title>
-				<link>http://localhost:1313/chapters/0_prologue_folly_of_best_laid_plans/</link>
+				<link>http://localhost:1313/chapters/0-prologue-folly-of-best-laid-plans/</link>
 				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/chapters/0_prologue_folly_of_best_laid_plans/</guid>
+				<guid>http://localhost:1313/chapters/0-prologue-folly-of-best-laid-plans/</guid>
 				<description>&lt;p&gt;The mud in the Ghimlyt Dark had the consistency of wet lard and smelled of spent ceruleum.&lt;/p&gt;&#xA;&lt;p&gt;It was a miserable, indecisive kind of cold—the sort that didn&amp;rsquo;t have the decency to freeze the ground solid, just spit sleet into your collar until your leathers were sodden and your shins ached. Around the revetment, the trench timber shuddered under the rhythmic, concussive hammering of imperial magitek artillery half a malm north.&lt;/p&gt;</description>
 			</item>
 	</channel>
