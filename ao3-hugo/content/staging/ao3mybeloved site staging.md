@@ -1,166 +1,292 @@
-The silence in the Ocular dragged long enough for the hum of the crystal relays to sound deafening.
+The ghost didn’t budge. He stayed propped against the corner of the heavy oak wardrobe, arms crossed over his insubstantial breastplate, watching her through a messy fringe of brown bangs with the cynical, heavy-lidded patience of a tavern sellsword waiting out a bar brawl.
 
-G’raha’s hand remained suspended mid-gesture, his fingers half-curled against the azure air. Beneath the heavy shadow of the cowl, his jaw worked twice, searching in vain for the grand, velvet rhetoric he had spent decades refining.
+Vex stayed dropped in her stance. Her left foot was anchored, lead-weighted sole biting into the floorboards, her brass dusters hovering two inches below her jawline. Her eyes never left his throat.
 
-"You..." His voice cracked, the ancient sovereign evaporating on the syllable before he hastily cleared his throat to force it back down. "I... forgive me. The calculations did not—"
+"I asked you a question, shade," she said, her rough contralto scraping through the camphor-paneled quiet, low and mean. "What are you?"
 
-"Calculations my scarred ass," Vex spat, taking two aggressive, lead-weighted strides across the brass rings. Her heavy boots struck the glass with a concussive *clack* that rattled the nearest console. Her dark, silver-streaked purple tail whipped the air behind her calves, and her eyes burned straight through the gloom of his hood. "Start talking, archivist. What in the seven burning hells is going on? What was that voice in my skull? Where are the others? Thancred, Y'shtola, Alisaie—they dropped like sacks of salt in the mud while the Empire was actively shelling our line\!"
+"I heard you the first time," the dead man sighed. He didn't drop his hands from his chest. Up close, the flat white glare from the casement passed straight through the scarred blue steel of his pauldrons, leaving only a faint, watery shimmer against the timber behind him. "And I already told you. A dead man with bad ears and worse luck. You can put the brass away, lass. Unless you've figured out how to crack the jaw of an echo, you're just wasting good positioning."
 
-"They are safe, Champion," he said quickly, reaching for the measured, solemn cadence of the Exarch like a shield. "I swear to you, their spirits are whole. They walk this realm even now. The temporal currents of the rift were tumultuous, fractured—I reached across the expanse seeking only your thread, but their souls were so deeply intertwined with your purpose that the rift drew them through the threshold instead. What has been moons on the Source has been years for them here."
+Vex didn't lower her hands. Her tail lashed behind her calves. "I've broken things older and uglier than you. Try me."
 
-"Years?" Her fangs clicked shut in a vicious snarl. "You hollowed out my command in the middle of a slaughterhouse and you're standing here behind a curtain talking about *currents*?"
+The phantom let out a dry, rattling huff of air that might have been a laugh if he had lungs left to push it.
 
-"It was an unforeseen consequence of the summoning\!" G'raha insisted, taking a half-step forward, his ash staff planting firmly on the flagstones as he tried to rally his authority. "The mechanics of crossing between reflections are perilous, and the burden of—"
+"Aye, I don't doubt it. You’ve got the stance for it," he said, nodding toward her dropped center of gravity. "Frontline brawler. Chin tucked, lead in the toes, ready to drive three inches of metal through a breastplate before the other bastard even realizes the fight started. I’ve known enough mercenaries who moved like that. Most of them ended up face-down in a ditch because they forgot to sleep."
 
-"Stop," Vex interrupted, planting her boots two paces from his hem.
+"They were slow, then," Vex snapped.
 
-She prodded his chest with a clawed finger, her brow furrowing in deep, caustic disgust as she tilted her chin upward.
+"They were tired," Ardbert countered. The casual, irreverent smirk faded from his mouth, replaced by an ancient, hollow weariness that carved deep valleys beneath his cheekbones. He uncrossed his arms, letting his phantom gauntlets hang heavy at his sides. "Just like you are. Look at you. Standing in the middle of a warm room, shivering with adrenaline, ready to punch the wallpaper because your skin doesn't know what to do without sulfur in the air."
 
-"I can't listen to a single word coming out of your mouth while you're wearing that stupid hood," she said flatly. "Pull it down, Raha. You look like a damn mushroom."
+Vex’s ears twitched, pinning half a fraction backward. Her canines caught the dry flesh of her bottom lip, her knuckles tightening until the cold brass bit into her palms. She hated how easily he parsed the wire-taut twitch in her shins. She hated that he wasn't wrong.
 
-A sharp twitch hitched beneath the wool. For a second, the ancient sovereign seemed prepared to argue the point—to cite the dignity of his office, the necessity of the myth, the century of protocol.
+"You walked with the axe," she said, her eyes tracking the spectral haft strapped across his shoulder. "Norvrandt's champion. The one the stories spat on."
 
-Then, the Exarch’s shoulders gave a small, defeated slump. A long, weary sigh escaped his nose.
+"Ardbert," he said simply. "Though round these parts, folk spit before they say the name at all. 'Warrior of Light.' Used to mean something grand. Now it just means the idiot who broke the levee and let the ocean drown his home."
 
-Slowly, his crystalline right hand rose, pale Allagan stone chiming softly against his staff. His fingers caught the edge of the crimson wool and pushed it back, letting the cowl spill into heavy folds around his shoulders.
+"A hundred years," she said.
 
-Messy, vibrant red hair tumbled free into the harsh, bleaching light of the dome.
+"Give or take a few moons. Hard to keep an accurate tally when the sun never sets and your boots don't touch the mud." He tilted his head, studying her battered face, the messy, asymmetrical hair, and the vicious, defensive knot clearly tied behind her sternum. "I saw you land in the Ocular. Saw you cut the Exarch off at the knees before he could even finish his grand address."
 
-His feline ears stood tall, smooth crimson fur angling forward with alert, familiar posture. He had aged, and carried an air of stoic weariness in the lines of his face. Fine silver threads caught the blue glare at his temples, and along the left angle of his jawline, a delicate, creeping river of iridescent crystal peeked out from his collar, fading into his skin like pale, translucent frostbite. 
+A tiny, involuntary smirk tugged at the corner of Ardbert's mouth.
 
-Other than that, it was just him. The boy from the Mor Dhona sands who had tripped over his own scrolls, now looking at her with wide, unshielded crimson eyes that carried a century of sleepless vigilance.
+"Felt good, seeing someone take the starch out of him. He’s spent a century practicing that solemn, untouchable church-statue act. Never seen him look that close to choking on his own tongue."
 
-Vex didn't back down, but the violent edge in her throat thinned by a fraction. Her gaze swept the line of his jaw, lingering on the glass creeping toward his eye, before locking onto his gaze.
+"He's an idiot," Vex muttered. Slowly, deliberately, she eased out of her fighting crouch, though she kept the dusters locked across her knuckles as she stood upright. "Sealed himself in a tower like a martyr, and now he's walking around Norvrandt playing savior in a dramatic bathrobe."
 
-"Look at you," she muttered, her rough contralto dropping into a low, gravelly rasp. "Half turned to rock and greying at the edges. What happened to your nap in the tower?"
+"Aye," Ardbert agreed softly, his gray eyes darkening. "He is. And you're the one he broke the sky to drag here. Two stubborn fools who think a broken world can be patched up if you just bleed enough over the cracks."
 
-"A century happened, Vex," G'raha replied softly. His voice was stripped of the theatrical resonance, settling into that familiar warmth that belonged entirely to him. "The Crystal Tower pierced the rift, but I arrived nearly a hundred years too early. A miscalculation of the temporal tides."
+The silence settled between them, thick and cold, but the venom had bled out of it.
 
-He turned slightly toward the expansive crystalline arches, looking out at the bleached, blinding glare that smothered the world beyond the glass.
+Vex looked at him—really looked at him. She saw the familiar, brutal weariness in the line of his shoulders, the phantom scuffs on his armor, and the dull, bottomless ache in his eyes that only came from burying everyone you ever marched with. It was the same rot that sat behind her own ribs when she thought of Ghimlyt, of Alisaie dropping in the trench slush, of Raubahn’s roar cutting through the thunder of imperial guns.
 
-"This is the First," he said, the quiet gravity of the archivist taking over. "A world pushed to the absolute brink of destruction. A century ago, a catastrophic flood of pure Light swept across the realm, consuming nine-tenths of the star in stagnant, blinding aether. What little survived—this continent of Norvrandt—is all that remains. And it is bleeding to death under the onslaught of the Sin Eaters: beasts spawned from that same corrupting radiance."
+Different stars. Different eras. The exact same miserable war.
 
-He stepped toward the massive mahogany planning table, gesturing with his crystalline arm toward the sprawling maps and celestial charts.
+"I need sleep," Vex said bluntly, turning her back on him and unbuckling the lead-weighted straps of her left boot. "And I don't sleep with ghosts watching over the headboard."
 
-"The light has halted the natural cycle of the land," G'raha continued, his tone clinical, precise, and careful to omit the final, lethal variable of his equations. "The sky has not known night in a hundred years. To save this star, the apex Sin Eaters that anchor this corruption must be struck down.  If they are not, an Eighth Umbral Calamity is inevitable, and once it has chewed through this world, it will  spill over to consume the Source. The Scions have spent their years here laying the foundation, but without a champion capable of breaking the Lightwardens and containing their aether... Norvrandt will fall."
+Ardbert let out another faint, insubstantial huff. "Don't flatter yourself. I've seen enough sleeping sellswords to last three lifetimes, and none of them snored as foul as you hum." He took a half-step back, his form blurring around the edges, blending into the grain of the oak panels. "I'll be around, stray. Not like I've got anywhere else to go. You're the only one who can hear the dirt crunch under my feet anyway."
 
-He turned back to face her, his hands resting lightly on his staff, his crimson gaze meeting hers with raw, earnest hope.
+"Thrilled," Vex grunted, kicking her boots into the corner with a concussive thud.
 
-"That was why I reached across the rift," he said quietly. "Not out of malice. Not to steal you from your war, but because you are the only one who can pierce this sky."
+The ghost flickered once, like a candle caught in a draft, and vanished into the timber.
 
-Vex stood anchored in the center of the chamber, her lead-weighted boots planted wide. Her fangs caught her lower lip, chewing on the raw grit of it. She looked at the sprawling maps, then back at his face—at the silver in his scarlet hair, the Allagan glass eating his jaw, and the terrifying, bottomless sincerity in his eyes.
+With the ghost gone, the wood-paneled room fell back into a dead, unnatural quiet.
 
-"A dying world," she rasped, her tail giving a slow, speculative flick against her boots. "Monsters made of light, missing Scions, and an archivist playing savior of the universe. Just another Windsday."
+Vex stood anchored by the hearth, her stockings cold against the floorboards, rolling her left shoulder until the stiff joint released its death-grip on her range of motion. Her muscles were humming with leftover adrenaline—the sick, greasy combat static of Ghimlyt refusing to drain out of her blood just because someone had handed her a key and a clean room.
 
-G'raha’s ears gave a tiny, hopeful flick. A faint, crooked smile touched the corner of his mouth.
+Food first. Her guts felt like a dry pit, and she wasn't foolish enough to think she could sleep with a growling belly.
 
-"Before we discuss strategy or seek out the others," G'raha said, his voice regaining a touch of that polite, scholarly decorum as he pulled the bright cowl over his features once again, "you need to understand what we are fighting to protect. The people who built this bastion from the ashes of the Flood. Will you... walk with me, Champion? Allow me to show you the Crystarium."
+She stripped off her heavy combat vest, tossing the scarred leather over the back of the settee with a dry creak. Her brass knuckles came out of the pockets next, clattering onto the timber tabletop alongside the iron key. From the bottom of her kit pack, she dragged out a grease-stained wax-cloth wrapper.
 
-Vex rolled her shoulders with a dull pop, shoving her hands deep into her pockets. Her amber eye flashed with a sudden, wicked gleam.
+Rations from the Eorzean trenches: a strip of salted dodo jerky and a heel of hard, dry flatbread. It tasted violently of salt, smoke, and old canvas, but her fangs tore through the meat with rapid, mechanical efficiency. She chased it down with three deep, unceremonious swallows of water straight from the earthenware wash pitcher, wiped her mouth with the back of a callused wrist, and stared down the bed.
 
-"Lead the way, archivist," she grunted, her contralto dripping with mock deference. "Let's see what kind of mess you've made of this rock."
+The mattress was stacked with clean, thick wool. Far too soft, smelling faintly of river clover instead of mud and spent ceruleum. And through the high arched casement, that dead, bleached glare beat down against the stone, refusing to offer even a sliver of twilight to rest her aching eyes.
 
-As they walked, the abrupt contrast in Vex’s surroundings set her on edge, and only added to the disorientation of finding someone she figured she’d never see again here \- wherever *here* was.
+"Gods, I hate this rock," she muttered to the rafters.
 
-It smelled of clean glass, crushed clover, wet river silt, and a subtle, woodsweet scent of sandalwood. After two weeks of breathing sulfur, sour boot grease, and the cold mud of the Ghimlyt Dark, the air felt thin enough to choke on. It offered nothing for the lungs to push against.
+She peeled off her sodden leg-wraps, left her breeches and wool under-tunic intact, and crawled onto the wool. She didn't bother slipping between the sheets; she just dragged the heaviest quilt bodily over her head to block out the suffocating white light, buried her nose into the crook of her elbow, and waited for the exhaustion of the rift to drag her under.
 
-Vex matched his stride down the grand crystalline concourse, her lead-weighted combat boots striking the flawless blue flagstones with a rhythmic, concussive *clack-thud* that echoed far too loud against the arches.
+The drop was sudden and concussive—the physical toll of punching through the boundary between stars pulling her down like an anchor dropped in deep brine.
 
-Beside her, the Crystal Exarch walked with the maddening, untouchable pace of a man who knew exactly where he was going and was in no rush. His crimson robe swished in heavy, immaculate folds; his staff met the floor on every fourth step without making a sound. To the scholars clutching rolls of vellum and the guards stationed along the terrace, he was an untouchable monarch carved from living stone.
+The problem was what was waiting for her in the dark.
 
-Vex wasn’t buying a single yard of the wool.
+Her mind didn’t replay the scream of imperial magitek shells or the sickening slide of trench timber in the rain. That would have made combat sense; she knew how to brace her heels against artillery.
 
-"The Cabinet of Curiosity," G’raha said, his voice dropping into that resonant baritone he had practiced for a century of lonely years. He extended his crystalline right arm toward the cavernous library shelves descending into the tower’s foundation. "Scholars from across Norvrandt gather here to compile what fragments of history survived the Flood. It is... our attempt to keep the past from being swallowed whole."
+Instead, her subconscious played absolute, unmitigated traitor.
 
-Vex didn't spare the manuscripts a glance.
+In the dream, the suffocating white sky of Norvrandt was gone. There was only the cavernous, azure gloom of the Syrcus Tower on the Source, the ancient glass humming with deep, cool subterranean power.
 
-Instead, she shifted her weight and stepped smoothly across his line of travel. It was a brawler’s prowl, low and casual, planting the heavy iron-shod soles of her boots right in the path of his soft leather sandals. She leaned against the polished balustrade, crossed her arms, and tilted her head back. Her dark bangs parted, letting the cold violet and burning amber of her eyes pin him to the floor.
+And G’raha Tia.
 
-"A whole library of dusty tomes," she murmured. Her rough Ala Mhigan contralto dropped an octave, losing its battlefield bark and taking on a smoky, deliberate purr. "Fascinating. Tell me, Exarch... do all the intellectuals here hide behind massive cowls, or is that dramatic little brooding look strictly reserved for you?"
+Only he wasn't standing ten paces away cloaked in three yards of regal wool, hiding behind the practiced, velvet resonance of an ageless ruler. He was right there in front of her—the boyish, disheveled scholar from the Mor Dhona sands who couldn't carry three scrolls without dropping two in the dirt. His scarlet hair was a wind-blown mess, his crimson eyes completely unshielded, looking up at her with that unvarnished, terrifying warmth that always made the air hitch in her throat.
 
-Under the deep shadow of the hood, G’raha didn't stammer.
+*"Vex,"* he said. His voice was light, boyish, and impossibly clear. *"Look at what they built. Just look at the stars..."*
 
-He didn't step back, and his staff didn't waver. He paused, drawing in a measured breath through his nose, and took half a stride forward. The distance between them collapsed until the thick crimson wool of his mantle brushed the battered leather of her trousers.
+He stepped forward, closing the distance until the worn wool of his traveler's tunic brushed her knuckles. He reached out—a living, warm mortal hand that wasn't tipped in pale Allagan glass—and his callused fingers wrapped loosely around her wrist.
 
-He tilted his chin down, fixing her with the full, unyielding weight of an ancient ruler who had bargained with gods and buried nations. When he spoke, the low resonance of his voice was smooth as dark peat.
+He didn't pull. He didn't try to hold her down. He just held her there, grounding her against the cold stone, his thumb resting right over her racing pulse with a quiet, devastating tenderness.
 
-"The cowl serves many masters, Champion," G'raha said softly, his tone unhurried, intimate, and dangerously calm. "It conceals what needs concealing, and it preserves what must endure. Or did you imagine a hundred years of governance would leave me deaf to an invitation?"
+*"You came back,"* he murmured, his voice catching on the syllables as the distance between them evaporated. *"I knew you would."*
 
-Vex’s ears gave a violent, startled twitch.
+In the dream, she meant to bare her fangs. She meant to snatch her hand back, call him an arrogant idiot, and punch him square in the jaw for closing those massive doors and locking himself in the dark like a martyr.
 
-Her pupils blew wide, the amber and violet swallowed by black as the smug smirk froze solid on her fangs. The counter-jab had landed flush on her jaw without a fist ever being thrown. She opened her mouth to snap a retort, found her lungs entirely empty of air, and closed it abruptly.
+Instead, the monk’s mythrite spine broke clean in half.
 
-Under the shroud, the corner of G’raha’s mouth curved into the faintest, wicked line.
+Her fingers betrayed her, claws tangling hard into the rough weave of his traveler's tunic, dragging him downward with a frantic, starved urgency that rattled her own ribs.
 
-"Come," he said, turning back toward the grand arches without breaking stride. "You have not seen the residential tier."
+G'raha didn't pull away. He didn't brace against her or stumble.
 
-Vex stood anchored to the paving stones for three long seconds, her silver-streaked dark tail lashing the air in a single, furious whip. "Arrogant bookworm," she muttered under her breath, shoving her hands into her pockets and stomping after him.
+He met her halfway—his living, mortal hand shooting up to cup the back of her neck, fingers burying deep into her thick hair to haul her upward as his crimson eyes blazed with a desperate, breathless hunger that matched her own stride for stride. He surged down, crowding her space, his chest crashing flush against hers as he pulled her in.
 
-They left the open air of the concourse, descending the wide crystal stairs toward the covered walkways of the Pendants. In the lower gallery, the acoustic geometry changed; the high, soaring reverberations died out, replaced by the tight, claustrophobic resonance of dark oak beams and polished stone.
+The scent of old paper, bitter ink, and his furnace-hot skin washed over her senses, blinding and absolute. His mouth parted over hers, his lips hot, rough, and searing against her bared fangs—
 
-Vex rolled her left shoulder until the joint popped with a dull crack. The silence between them felt thick, defensive, and entirely too heavy.
+The world tore away on the breath.
 
-So, like any normal person, she started to hum.
+Vex hit waking consciousness with a concussive, full-body heave.
 
-It was not a tune known to any civilized music hall. It was an old Gyr Abanian march cadence—raw, angular, and delivered with deliberate, surgical dissonance. She dragged the opening note a quarter-tone flat, let the second wobble on the breath like an unbalanced wagon axle, and pushed the intervals through her clenched teeth with the screech of an ungreased pulley.
+Her mouth was parted against empty air, her fangs scraping nothing, her lips tingling with a phantom, scalding heat that had nowhere to go.
 
-Ahead of her, beneath three yards of heavy crimson wool, G’raha’s ears went rigid.
+She sat bolt upright on the mattress, claws digging frantically into the wool quilt, chest hitching in ragged, violent gasps. The room was cold and entirely still. Through the window slats, the bleached, suffocating glare of the First poured over her tangled sheets, utterly indifferent to the ruined, frustrated storm hammering behind her breastbone.
 
-The left ear flattened hard against his skull, pinning itself into the lining in immediate, biological self-defense. The right ear swiveled backward, twitching in violent, helpless agony as the discord scraped across his eardrums. His knuckles tightened around the ash of his staff until the polished grain groaned.
+"Gods *damn* it," she snarled into the empty room, dragging both palms down her face in furious, waking mortification \- which always pulled the more creative epitaphs out of her imagination.  “Fuck\!  Blessed Rhalgr’s honey-crusted ballsack.”  She groaned loudly.
 
-He did not break stride. He was the Crystal Exarch, a monument of stoicism, bearing the weight of a dying star upon his shoulders.
+She had buried that. When those ancient Allagan gates had ground shut in Mor Dhona, sealing him away from the sun, she had bitten her tongue until she tasted copper, shouldered her pack, and marched back to the front lines. She hadn't let herself look back. She hadn't let herself mourn the earnest, clumsy fool who looked at her like she hung the moon.
 
-Yet with every mangled minor third that bounced off the paneling, the vertebrae in his neck locked another fraction of an inch tighter. His chin stayed level, his crimson robes trailed in majestic lines, but beneath the cowl, his ears shivered with sheer, unadulterated musical offense while he endured the assault in heroic, polite, suffocating silence.
+And now he was here. A century older, half-eaten by stone, hiding behind expensive words and playing at being a savior.
 
-The wool cowl felt roughly ten times heavier than it had ten minutes ago, and G’raha Tia was acutely aware that every single seam was failing him.
+Vex swung her bare legs off the bed, her claws digging deep into the polished camphor frame as she glared violently at the opposite wall.
 
-*A century,* he thought frantically, his crystalline fingers locking around the wood unconsciously. *A hundred years of preparation. I unified broken peoples. I calculated the exact aetheric tolerances of the rift.*
+"Stupid, self-sacrificing bookworm," she snarled into the empty room, her contralto thick with dry fury. "Next time I see that ridiculous face, I'm breaking his nose."
 
-And yet, watching her stalk through his city with those lead-weighted soles and that dangerous, mismatched glare, all one hundred years of monarchical detachment had threatened to evaporate into the humid air of the concourse.
+Mercifully, the morning brief in the Ocular was brisk, clinical, and above all \- impersonal.
 
-When she had closed the distance—when that low, unhurried tease had washed over his collar, taking aim directly at his hidden face and the crimson wool guarding it—his heart had violently thrown itself against his ribs like a panicked bird. For all the authority he had cultivated across a century of statecraft, the sudden, intoxicating proximity of her knocked the breath clean from his lungs, leaving his knees literally trembling beneath the heavy, iron-weighted drape of his mantle.
+G’raha had kept his deep cowl pulled low against the perpetual glare, leaning over the mahogany planning table with his staff planted like an anchor. He laid out the tactical split across Norvrandt with practiced efficiency: Alphinaud was already gathering intelligence on the outskirts of Eulmore to the west, while Alisaie had anchored herself in the sun-bleached south of Amh Araeng.
 
-He had no idea where the retort had come from. It had been a pure, desperate instinct—the ancient ruler stepping in front of the mortified scholar just before the boy could squeak and give the game away.
+Vex didn't hesitate. She had pointed a callused, bandaged finger at the southern crags on the chart, grunted her assent, and turned on her heel before he could finish reciting the regional weather patterns.
 
-And now, this.
+She needed distance. She needed to put an entire continent of dry sandstone between herself, that awful too-soft bed, and the irritating, messy-haired ghost of Mor Dhona that had ambushed her sleep.  But it was not to be, she realized with boundless irritation.  There were footsteps behind her.
 
-Behind him, her boots struck the boards—*clack-thud, clack-thud*—punctuated by a humming cadence so foul, so violently discordant, it was setting his teeth on edge beneath his gums.
+"Wait—Vex, hold a moment."
 
-*She has to know how bad it is,* he thought in quiet, sweating despair, feeling his ears twitch frantically against the suffocating wool. *She remembers the Studium acoustics lectures. She is doing this entirely on purpose to see if I will crack.*
+The urgency in his voice cut through the mechanical hum of the crystal relays. He rounded the planning table with uncharacteristic haste, his staff knocking against his hip, his crystalline fingers catching the iron gate of the lift before the platform could drop.
 
-He stopped outside the heavy oaken door of her quarters, drawing upon the absolute limits of his archival discipline to keep his hand steady as he produced the heavy brass key.
+Vex stopped, her feet planted on the metal grate. She kept her hands shoved deep into her pockets, her tail flicking with a sharp, combative snap against her calf. After waking up from that ridiculous, suffocating dream with her face on fire, she had zero patience left for banter.
 
-"Your room," he managed. His voice was level, measured, and carefully pitched, though his throat felt like it had been scrubbed with pumice. "Rest. Eat. You have crossed an ocean of time and space, Champion. Norvrandt can wait until morning."
+"What?" she said, her voice flat and gravel-rough. "Did you forget to tell me the desert has sand, Lord Exarch?"
 
-Vex snatched the key, tossing it once in her callused palm. Her feline ears were still angled back, suspicious, but the rough line of her mouth carried a sharp, knowing smirk.
+G’raha checked over both shoulders, scanning the empty reaches of the Ocular as if a legion of Crystal Guards might step out from behind the crystal pillars. Beneath the shadow of his cowl, his jaw worked twice before he found the words, stripping every scrap of church theater from his tone.
 
-"Don't wander off too far, Raha," she muttered. "We've got notes to settle. And you're not done explaining yourself."
+"The cowl," he said, keeping his voice to a low, hurried murmur meant only for her. "I realized I did not make it clear yesterday, amid the confusion of your arrival."
 
-"I am never far," he murmured.
+"Make what clear?"
 
-He bowed with flawless, untouchable diplomacy, turned on his heel, and walked away. He kept his strides even, majestic, and slow until he rounded the corner into the lift alcove.
+He hesitated, his fingers tightening against the iron lattice until the Allagan stone chimed faintly.
 
-The moment the masonry broke her line of sight, G’raha practically hurled himself into the lift cage, leaned his forehead hard against the cold crystal lattice, and let out a long, ragged wheeze of pure, terrified survival.
+"No one in Norvrandt has seen my face," G'raha said. The nervous edge in his voice thinned out, replaced by a bone-deep, quiet gravity. "Not the captains, not the council, not even Lyna. To the Crystarium, the Exarch is an ancient, untouchable guardian bound to the spire. A symbol they can lean on when the sky threatens to crush them."
 
-Inside the quarters, the latch fell into place with a heavy, hollow thud.
+His crimson eyes met hers through the dark of the hood, unshielded and defensive.
 
-Vex didn't take off her boots. She tossed the brass key onto the low wooden table, paced the perimeter of the woven rug twice, and tested the casement latch. Secure. The room was clean, draft-free, and dominated by a bed piled with thick wool that looked too soft for a frontline post.
+"Yesterday, when you… pointedly asked me to remove my cowl... you became the only one in an entire century to look upon me as I truly am. Just an archivist out of his depth."
 
-She stopped by the hearth, her knuckles resting against the cold stone mantle, and let out a long, dry breath.
+He paused, his shoulders tense.
 
-Absent-mindedly, her throat picked up the tune again—a flat, droning rasp of Gyr Abanian mountain iron, bumping against the rafters with all the melody of a dropped shovel.
+"I need your word, Vex. Keep that truth between us for now. If the city knew a flustered mortal was steering their fate, the hope holding these walls together would fracture."
 
-"Seven hells," a voice groaned from the corner. "Do you have to do that?"
+Vex stared at him through the lift bars.
 
-Vex spun on her heel, her brass dusters clearing her pockets with a concussive *clack* as she dropped low into her stance.
+The irritation buzzing around in her chest cavity didn't magically vanish, but the prickly, caustic edge in her stance hardened into something practical and cold. She had spent years running covert frontline ops and managing Scion messes; keeping her mouth shut about a strategic asset's identity wasn't a joke or a bargaining chip. It was just plain common sense.
 
-Leaning against the heavy oak wardrobe was a man. He was broad-shouldered, ruggedly handsome in a battered, tavern-brawler sort of way, dressed in the scarred scale-mail of a mercenary. But the light through the tall window passed straight through his breastplate, casting no shadow on the rug.
+"You think I'm an idiot?" she replied. "I run frontlines, Raha. I don't go around blowing my own commander's cover to the locals."
 
-He had both hands clamped violently over his phantom ears, his brow furrowed in deep, unvarnished misery.
+G’raha let out a slow breath through his nose, relief visibly loosening his neck. "Thank you. Truly."
 
-"I died a hundred years ago," the ghost sighed, peering at her through messy brown bangs. "I have walked this bloody rock as a shade until my boots turned to mist. And my reward is a feral stray who mangles a tune like it shot her favorite pet."
+"Don't thank me," Vex grunted, stepping back to reach for the lift lever. "Just means when you act like an insufferable bookworm, I have to wait until we're behind closed doors to call you out on it. Keep your hood up and do your job."
 
-Vex stared at him, eyes wide, her fangs bared in total, exhausted disbelief.
+She yanked the lever down. The brass gate locked, the gears groaned, and the platform dropped into the shaft, leaving him standing alone above the empty arches.
 
-"What in the burning hells," she said, "are you?"
+---
+
+The amaro launch at the crest of the city was buffeted by cool lake drafts, smelling of oiled saddle leather, dry straw, and sweet-grass. Attendants bustled between the stalls with water buckets, tightening cinches and strapping down canvas supply rolls onto the broad-backed, four-winged transport mounts.
+
+Vex rounded a corner towards the grazing area and caught sight of bunched red wool close to the parapet.  G’raha had propped his staff against a fence and his cowl was pulled forward to swallow his face.
+
+Vex stopped dead three paces from the boarding ramp. Her feline ears gave a sharp, irritable snap sideways, her eyes narrowing into dangerous slits beneath furrowed eyebrows.
+
+"Don't you have a whole city to run?" she called out, her voice cutting right through the ambient coo of the roosts. "Or is hanging around drafty bird pens part of your grand civic duties now?  How the balls did you get here before me, anyway?"
+
+G’raha’s shoulders jerked beneath his heavy crimson wool—just a hair, the tell so minute an ordinary outrider wouldn't have clocked it. Slowly, deliberately, he turned to face her, his ash-wood staff meeting the decking with a quiet, measured thud. Beneath the heavy shadow of the cowl, his chin tilted up, trying to hold that ancient, unyielding posture.
+
+"Logistical oversight is vital to the stability of Norvrandt, Champion." he replied. His voice was pitched low, cloaked in that resonant, silky cadence that sounded like it belonged in a cathedral. "The amaro are our lifelines. Ensuring that our couriers—and our guests—are dispatched with adequate provisions falls squarely within my purview.  And you’ve been here less than a day.  I hope I can get around the city more efficiently than you."
+
+"Right," Vex muttered, closing the distance with an aggressive, rolling brawler’s swagger that put her lead-weighted soles uncomfortably close to the hem of his pristine robes.
+
+She bristled from collar to tail, every line of her body made of pure, hostile spikes. She planted her feet wide and leaned in just enough to let him smell the aloe-infused soap on her skin.
+
+"Funny, Raha," she rasped, her fangs catching the bright light as her lip curled. "Back in Mor Dhona, you couldn't pack your own bedroll without dropping half your rations in the mud. Now you're inspecting saddle-straps?"
+
+The wool around his head twitched near-imperceptively, as though his own feline ears were pinning back defensively under the heavy cowl. For a second, the dignified patriarch looked ready to stammer—to drop the voice and frantically check over both shoulders to ensure none of the stable hands had heard her use his real name.
+
+Instead, he drew in a slow, disciplined breath through his nose, refusing to step back.
+
+"The south is unforgiving," G'raha said softly, the resonant authority holding firm even as his knuckles tightened a fraction of an inch against the ash wood. "The heat of Amh Araeng drains a traveler’s reserves before they clear the crags. The Sin Eaters in the wastes are opportunistic, and the terrain offers precious little cover. I merely... wished to ensure your mount was appropriately provisioned for the crossing."
+
+"My mount's fine. I'm fine," she snapped, her tail lashing the air behind her boots. "I spent two weeks eating grease in a ditch while the Garleans were trying to blow my legs off. I don't need a lecture on dry dirt from a bookworm who hasn't left this glass greenhouse in a hundred years."
+
+G’raha went very quiet.
+
+Through the gloom of his hood, his crimson eyes held hers, steady and painfully earnest. He didn't rise to the bait. He didn't counter with a barb about her temper, and he didn't lean into her space like he had at the balustrade. He just stood there, enduring the barrage of her needles with that tragic, infinite patience that made her teeth ache.
+
+"You carry a heavy burden into those sands, Vex," he murmured, his voice dropping into that quiet, unshielded warmth that completely bypassed her armor. "Take care. That is all."
+
+The fight hit an empty void. Vex opened her mouth to snap another caustic deflection, found nothing to push against, and closed her jaw with an audible click of teeth.
+
+"Whatever," she grunted, turning her back on him with an aggressive, dismissive yank of her chin. "Keep your hood on, Exarch. Wouldn't want the breeze to ruffle your dignity.  And if you try that ‘ancient sovereign’ voice on me again, I’ll break your nose."
+
+She strode past the hitching ring toward the designated transport beast—a massive, grey-brown amaro with broad, four-winged plumage and notched, leathery ears that hung lazy and indifferent over a water trough.
+
+Vex didn't wait for the attendant to lower the stirrups. She caught the high leather pommel, hauled her weight up with a fluid, effortless heave, and swung her boots into the irons.
+
+"Clear the ramp\!" the handler barked, unhooking the heavy safety chains.
+
+Behind her on the platform, G'raha didn't move. He stood like a carved crimson pillar against the bright glare of the sky, leaning on his staff, his gaze tracking her every strap and buckle until the platform gates groaned open.
+
+Vex gathered the thick reins, her knuckles aching with white-hot, defensive static, and kicked her heels into the beast's flanks.
+
+"Fly," she muttered between her teeth.
+
+The amaro let out a low, breathy huff, unfurled four massive wings against the rising thermal, and launched them out into the vast, bleached abyss of the morning.
+
+The high, biting drafts off the northern rim of the lake sheared past the leather fringe of Vex’s collar, but the wind did nothing to clear the violent, chaotic clutter in her skull.
+
+The beast didn’t flap its wings like the cantankerous chocobos she had spent years cursing across the Source. It tilted. The massive, four-winged frame caught the rising thermal off the jagged crags of the hills with the effortless, hypnotic roll of a timber skiff riding ocean swell. It was smooth. It was steady. It offered nothing for her shins to fight against.
+
+Which made it thoroughly intolerable.
+
+Vex sat rigid in the high leather cantle, her feet  jammed deep into the stirrups, her spine locked like an iron stay. Her tail whipped the rear arch of the saddle in a sharp, erratic metronome, while she tried to burn holes into the bleached horizon with her gaze.
+
+"Idiot," she snarled under her breath, ducking her chin into her collar to dodge a spray of cloud-mist. "Self-sacrificing, dramatic, ginger idiot."
+
+She shifted her weight, her heavy boots creaking in protest as she leaned over the pommel.
+
+"Standing on the dock looking at me with those damn eyes. *Logistical oversight.* As if I didn't watch him drop three armfuls of ancient pottery in the Mor Dhona dirt because someone shouted his name too loud. A hundred years in a glass box and he thinks he can play at being an untouchable crystal-infused… whatever the hell he is. I ought to drag him down by his collar and dump him in the nearest wash trough."
+
+She hauled back on the reins by a fraction of an inch, her claws digging hard into the oiled harness leather.
+
+"And that moronic cowl. Three yards of church wool just to hide a chin that's half turned to quartz. If he thinks I'm going to tread lightly around his delicate little feelings, he's got another thing coming. Next time he tries that baritone on me, I'm putting a boot through his planning table."
+
+"You are leaning heavily into the port stirrup, little traveler."
+
+The voice rumbled straight up through the timber cantle and the thick sheepskin pad. It was low, dry and sandpapery—carrying the unhurried, rhythmic rasp of an old sellsword who had swallowed six decades of dust and campfire smoke.
+
+Vex detonated.
+
+Her spine went rigid as a spear. Her brass dusters cleared her pockets with a double *clack* as her boots instinctively kicked back to clear the stirrups. She came half an inch from vaulting clean out of the saddle at three thousand feet.
+
+"What in the seven hells?\!" she shouted, her voice cracking against the wind as she whipped her chin over both shoulders. "Who's there?\!"
+
+The sky was vast, blinding white, and utterly empty.
+
+There were no airships. No scouting sin eaters gliding beneath the cloud-breaks. Just the four broad, grey-brown wings of the beast beneath her, beating the air with slow, rhythmic majesty.
+
+One of the amaro’s notched, leathery ears flicked back toward her knee. Its long, scaly neck stayed steady against the headwind, but the broad snout gave a soft, breathy snort of amusement.
+
+"If you throw your balance over the railing, we shall both find the canyon floor rather quickly," the beast said mildly, the whiskered maw shifting around the syllables. "And I am far too old to enjoy an uncontrolled descent."
+
+Vex froze.
+
+Her right fist, primed to drive three pounds of lead and brass through an intruder's jaw, hovered uselessly two feet above the pommel. Her mouth opened, closed, and then opened again, her fangs catching the harsh glare of the sky.
+
+"You," she croaked. "You're... you're a bird-camel. You're an overgrown lizard."
+
+"An amaro, strictly speaking," the beast rumbled softly, banking smoothly to follow the line of a sun-bleached sandstone ridge. "Though I have been called far worse by the handlers when the saddle-girth pinches. You may call me an old soul, if it offends your dignity less."
+
+Vex didn't put away the brass. She lowered her knuckles by two inches, leaning forward over the horn to stare violently at the side of the creature's horned head.
+
+"Raha said you were mounts," she snapped, her tail lashing the cantle in an agitated rhythm. "He said you were couriers. He didn't say a damn word about you having an opinion\!"
+
+"The young overseer carries many books in his head, but very little time to look beyond the glass," the amaro replied. A deep, rhythmic wheeze rattled in its broad chest—a dry, ancient sound that was unmistakably a chuckle. "Most of my kind forgot the old speech when the kingdoms fell to ruin. The two-legged folk stopped listening, and we found it far simpler to let the silence lie."
+
+"Simpler?" Vex echoed, her eyes narrowing into sharp, incredulous slits. "You let them strap fifty pounds of iron and canvas to your ribs, muck out your stalls, and steer you around by a bit, and you call that *simpler*?"
+
+"The Crystarium provides sweet grass, dry reeds for a bed, and the stone keeps the sin eaters from the roosts," the old beast murmured, catching a long, warm thermal that lifted them effortlessly over a razor-sharp canyon rim. "No one asks a beast of burden to settle city squabbles or weigh the souls of the dead. A quiet life is a very good trade, little warrior. Why make noise when sleep comes easier without it?"
+
+The casual, ancient pragmatism landed flush against Vex’s antagonistic spirit, knocking the wind straight out of her indignation.
+
+She stared down at the tough, weathered hide of the beast’s neck. She looked at the notched, leathery ear, scarred by seasons and sun, flicking idly against the wind. It was the exact same survival arithmetic she had used her entire life: tuck your head, keep your mouth shut, do the dirty work, and don't let anyone know how much you see.
+
+Her feline ears gave a tiny, reluctant twitch, unpinning by a bare fraction from her skull.
+
+"Then why talk to me?" she rasped, her contralto dropping its defensive bark. "If playing dumb gets you nice grass, why break the act for a stranger?"
+
+The amaro banked gently into the south, its dark, intelligent eye catching the blinding white glare of the sky.
+
+"Because your thoughts are loud enough to spook the fledglings," the beast wheezed softly. "You sit upon my back like a sack of dry lightning. You lean forward as though you would haul us both into the desert by your own teeth, and then you pull upon the reins as though you are terrified of what you left behind on the tower platform."
+
+A sudden, traitorous splash of dark heat crawled up Vex’s neck.
+
+"I am not terrified," she muttered defensively, though her fingers loosened their viselike grip on the reins.
+
+"He is quite safe within his walls, little traveler," the amaro rumbled with infuriating, immovable patience. "He paces the high parapets, and you pull at the harness. You two are chewing on the exact same bit."
+
+"I am not chewing a damn thing," Vex hissed, crossing her arms tightly across her ribs and glaring down at the yellow dust of the desert floor rising to meet them. "And he isn't my business. I have a job to do down there."
+
+"Of course," the old beast replied, its four broad wings flaring in a wide, whistling arc as it caught the draft toward the lower cliffs. "Whatever you must tell the wind to keep your wings spread."
 
